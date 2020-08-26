@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/%E2%80%9Chomepage%E2%80%9D:%20%E2%80%9Chttp://jjwallace.github.io/mars-coin/precache-manifest.f41a94e581890058105bdc11fdecbe0e.js"
+  "/%E2%80%9Chomepage%E2%80%9D:%20%E2%80%9Chttp://jjwallace.github.io/mars-coin/precache-manifest.3d87ef88fe3d562cda3b1a978a832318.js"
 );
 
 self.addEventListener('message', (event) => {
