@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/%E2%80%9Chomepage%E2%80%9D:%20%E2%80%9Chttp://jjwallace.github.io/mars-coin/static/css/main.7a601bf0.chunk.css",
-    "main.js": "/%E2%80%9Chomepage%E2%80%9D:%20%E2%80%9Chttp://jjwallace.github.io/mars-coin/static/js/main.2e6638ed.chunk.js",
-    "main.js.map": "/%E2%80%9Chomepage%E2%80%9D:%20%E2%80%9Chttp://jjwallace.github.io/mars-coin/static/js/main.2e6638ed.chunk.js.map",
-    "runtime-main.js": "/%E2%80%9Chomepage%E2%80%9D:%20%E2%80%9Chttp://jjwallace.github.io/mars-coin/static/js/runtime-main.d99af964.js",
-    "runtime-main.js.map": "/%E2%80%9Chomepage%E2%80%9D:%20%E2%80%9Chttp://jjwallace.github.io/mars-coin/static/js/runtime-main.d99af964.js.map",
-    "static/js/2.18f78b06.chunk.js": "/%E2%80%9Chomepage%E2%80%9D:%20%E2%80%9Chttp://jjwallace.github.io/mars-coin/static/js/2.18f78b06.chunk.js",
-    "static/js/2.18f78b06.chunk.js.map": "/%E2%80%9Chomepage%E2%80%9D:%20%E2%80%9Chttp://jjwallace.github.io/mars-coin/static/js/2.18f78b06.chunk.js.map",
-    "index.html": "/%E2%80%9Chomepage%E2%80%9D:%20%E2%80%9Chttp://jjwallace.github.io/mars-coin/index.html",
-    "precache-manifest.ed452a35abba4cc6b5f95c71ecd12390.js": "/%E2%80%9Chomepage%E2%80%9D:%20%E2%80%9Chttp://jjwallace.github.io/mars-coin/precache-manifest.ed452a35abba4cc6b5f95c71ecd12390.js",
-    "service-worker.js": "/%E2%80%9Chomepage%E2%80%9D:%20%E2%80%9Chttp://jjwallace.github.io/mars-coin/service-worker.js",
-    "static/css/main.7a601bf0.chunk.css.map": "/%E2%80%9Chomepage%E2%80%9D:%20%E2%80%9Chttp://jjwallace.github.io/mars-coin/static/css/main.7a601bf0.chunk.css.map",
-    "static/js/2.18f78b06.chunk.js.LICENSE.txt": "/%E2%80%9Chomepage%E2%80%9D:%20%E2%80%9Chttp://jjwallace.github.io/mars-coin/static/js/2.18f78b06.chunk.js.LICENSE.txt",
-    "static/media/5672_mars_12k_color.jpg": "/%E2%80%9Chomepage%E2%80%9D:%20%E2%80%9Chttp://jjwallace.github.io/mars-coin/static/media/5672_mars_12k_color.bd8c4c33.jpg",
-    "static/media/5672_marsmap4k.jpg": "/%E2%80%9Chomepage%E2%80%9D:%20%E2%80%9Chttp://jjwallace.github.io/mars-coin/static/media/5672_marsmap4k.59785aac.jpg"
+    "main.css": "/mars-coin/static/css/main.7a601bf0.chunk.css",
+    "main.js": "/mars-coin/static/js/main.d7ef5fdc.chunk.js",
+    "main.js.map": "/mars-coin/static/js/main.d7ef5fdc.chunk.js.map",
+    "runtime-main.js": "/mars-coin/static/js/runtime-main.5bceedc8.js",
+    "runtime-main.js.map": "/mars-coin/static/js/runtime-main.5bceedc8.js.map",
+    "static/js/2.18f78b06.chunk.js": "/mars-coin/static/js/2.18f78b06.chunk.js",
+    "static/js/2.18f78b06.chunk.js.map": "/mars-coin/static/js/2.18f78b06.chunk.js.map",
+    "index.html": "/mars-coin/index.html",
+    "precache-manifest.7a8397eb10c47e5eaa6646bce8acc392.js": "/mars-coin/precache-manifest.7a8397eb10c47e5eaa6646bce8acc392.js",
+    "service-worker.js": "/mars-coin/service-worker.js",
+    "static/css/main.7a601bf0.chunk.css.map": "/mars-coin/static/css/main.7a601bf0.chunk.css.map",
+    "static/js/2.18f78b06.chunk.js.LICENSE.txt": "/mars-coin/static/js/2.18f78b06.chunk.js.LICENSE.txt",
+    "static/media/5672_mars_12k_color.jpg": "/mars-coin/static/media/5672_mars_12k_color.bd8c4c33.jpg",
+    "static/media/5672_marsmap4k.jpg": "/mars-coin/static/media/5672_marsmap4k.59785aac.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d99af964.js",
+    "static/js/runtime-main.5bceedc8.js",
     "static/js/2.18f78b06.chunk.js",
     "static/css/main.7a601bf0.chunk.css",
-    "static/js/main.2e6638ed.chunk.js"
+    "static/js/main.d7ef5fdc.chunk.js"
   ]
 }

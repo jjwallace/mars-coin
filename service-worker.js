@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/%E2%80%9Chomepage%E2%80%9D:%20%E2%80%9Chttp://jjwallace.github.io/mars-coin/precache-manifest.ed452a35abba4cc6b5f95c71ecd12390.js"
+  "/mars-coin/precache-manifest.7a8397eb10c47e5eaa6646bce8acc392.js"
 );
 
 self.addEventListener('message', (event) => {
@@ -33,7 +33,7 @@ workbox.core.clientsClaim();
 self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/%E2%80%9Chomepage%E2%80%9D:%20%E2%80%9Chttp://jjwallace.github.io/mars-coin/index.html"), {
+workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/mars-coin/index.html"), {
   
   blacklist: [/^\/_/,/\/[^\/?]+\.[^\/]+$/],
 });
